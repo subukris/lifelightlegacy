@@ -20,7 +20,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/lotus.png"
+avatar: "/assets/img/lamp.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -41,7 +41,7 @@ social-network-links:
 #  twitter: daattali
 #  patreon: DeanAttali
   youtube: channel/UC4XwmfovwEiBPXrg6VOZy4g
-  medium: yourname
+  medium: subramaniankris
 #  reddit: yourname
   linkedin: krishnansubramanian18
 #  xing: yourname
@@ -108,7 +108,7 @@ footer-link-col: "#404040"
 
 #navbar-img: "/assets/img/bgimage.png"
 #footer-img: "/assets/img/bgimage.png"
-page-img: "/assets/img/bg-badri.jpg"
+#page-img: "/assets/img/bg-badri.jpg"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#0085A1"
